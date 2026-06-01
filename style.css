@@ -1,20 +1,24 @@
 @import url("style/header.css");
 body {
-    background-color: rgb(58, 40, 17);
+    background-color: rgb(216, 134, 19);
 }
 .container img{
-    max-width:200px;
-    max-height: 100px;
+    max-width:100px;
+    max-height: 80px;
     width:auto;
     height: auto;
+    width:40%;
+    height: 40%;
 }
-
 .h1 {
-    color:rgb(37, 110, 35);
+    color:rgb(99, 226, 95);
 }
 
 .h2 {
 
-    color:brown;
+    color:rgb(241, 102, 102);
     
 }
+footer{
+    background-color:#191717;
+    color:antiquewhite;}
