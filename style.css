@@ -1,6 +1,6 @@
 @import url("style/header.css");
 body {
-    background-color: rgb(243, 200, 252);
+    background-color: rgba(205, 113, 52, 0.501);
 }
 .container img{
     max-width:100px;
@@ -11,7 +11,7 @@ body {
     height: 40%;
 }
 h1 {
-    color:rgb(99, 226, 95);
+    color:rgba(226, 189, 95, 0.61);
 }
 
 h2 {
