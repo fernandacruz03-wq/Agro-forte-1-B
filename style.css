@@ -1,18 +1,16 @@
-@import url("style/header.css");
+@import url("header.css");
 body {
     background-color: rgba(189, 84, 14, 0.649);
 }
 .container img{
     max-width:100px;
     max-height: 80px;
-    width:auto;
-    height: auto;
     width:40%;
     height: 40%;
 }
 h1 {
     color:rgba(145, 55, 45, 0.496);
-}
+} 
 
 h2 {
 
